@@ -1,0 +1,2 @@
+# bashProject
+university bash project
